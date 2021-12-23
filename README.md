@@ -10,7 +10,7 @@ Model tabanlı Grafiksel Kullanıcı Arayüz (GUI) testi, yazılım GUI testi i�
 
 ![Genel Görünüm](images/general-flow.PNG)
 
-<figcaption>Fig.1 - Genel Görünüm.</figcaption>
+<figcaption>Resim 1 - Genel Görünüm</figcaption>
 
 </figure>
 
@@ -34,16 +34,16 @@ Makaledeki bölüm 3.2’de ifade edildiği gibi test hazırlık aşamasında FS
 
 ### Deneysel Çalışma - Iselta Special Formu
 
-Lütfen aşağıda verilen Special Form XXX dosyasını indirin. Ardından bu dosyayı araçlar bölümünde verilen Test Suite Designer programı ile açın. Special Form ESG modeli için Şekil 2'ye bakın.
+Lütfen aşağıda verilen Special Form XXX dosyasını indirin. Ardından bu dosyayı araçlar bölümünde verilen Test Suite Designer programı ile açın. Special Form ESG modeli için Resim 2'ye bakın.
 
-* <span>CS 1: ISELTA [http://iselta.ivknet.de/](http://iselta.ivknet.de/) "Special" Form</span>
+* <span>ISELTA [http://iselta.ivknet.de/](http://iselta.ivknet.de/) "Special" Form</span>
 [![Special Form Test Suite Designer File](Special_FF.jflap)](Special_FF.jflap)
 
 <figure>
 
 ![Special Form](images/Special_FF.jpg)
 
-<figcaption>Fig.2 - Special Formun ESG Modeli</figcaption>
+<figcaption>Resim 2 - Special Formun ESG Modeli</figcaption>
 
 </figure>
 
@@ -65,7 +65,7 @@ Aşağıda testlerin sonuçları görülmektedir.
 
 <figure>
 
-![Trulli](Results1_Special.PNG)
+![--Sonuçlar--](Results1_Special.PNG)
 
 <figcaption>Table.1 - Special Form Test Sonuçları</figcaption>
 
