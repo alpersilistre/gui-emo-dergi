@@ -64,13 +64,29 @@ ISELTA Special FSM:
 
 <figure>
 
-![Special Form](images/FSM.png)
+![Special Form](images/Upper.png)
 
-<figcaption>Resim 3 - Special Formun FSM Modeli</figcaption>
+<figcaption>Resim 4 - Special Formun HFSM Üst Katman Modeli</figcaption>
 
 </figure>
 
-ISELTA Special EFG:
+<figure>
+
+![Special Form](images/l1.png)
+
+<figcaption>Resim 5 - Special Formun HFSM Katman 1 Modeli</figcaption>
+
+</figure>
+
+<figure>
+
+![Special Form](images/l2.png)
+
+<figcaption>Resim 4 - Special Formun HFSM Katman 2 Modeli</figcaption>
+
+</figure>
+
+ISELTA Special EFG: Model çizimi için kullanılan GUITAR aracının GUI tarafı güncel sürümde iptal edildiği için, modelin sadece ".xml" dosyası oluşturulabilmektedir. Bu yüzden altta genel hatları ile formel tanım verilmiştir.
 
 V: = {x,y,z,u,v,z,n,p,t,l,k,e}
 
