@@ -47,6 +47,7 @@ Lütfen aşağıda verilen Special Form dosyasını indirin. Ardından bu dosyay
 
 </figure>
 
+
 Ek modeller:
 
 ISELTA Special FSM:
@@ -58,6 +59,24 @@ ISELTA Special FSM:
 <figcaption>Resim 3 - Special Formun FSM Modeli</figcaption>
 
 </figure>
+
+ISELTA Special FSM:
+
+<figure>
+
+![Special Form](images/FSM.png)
+
+<figcaption>Resim 3 - Special Formun FSM Modeli</figcaption>
+
+</figure>
+
+ISELTA Special EFG:
+
+V: = {x,y,z,u,v,z,n,p,t,l,k,e}
+
+E: = {([u, y), (u, x), (u, z), ..., (l, v)}
+B: = {u,y,x,z}
+I: = {Ø}
 
 
 
