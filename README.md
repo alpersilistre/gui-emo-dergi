@@ -65,7 +65,7 @@ Aşağıda testlerin sonuçları görülmektedir.
 
 <figure>
 
-![--Sonuçlar--](Results1_Special.PNG)
+![--Sonuçlar--](Table3.PNG)
 
 <figcaption>Table.1 - Special Form Test Sonuçları</figcaption>
 
