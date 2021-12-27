@@ -34,7 +34,7 @@ Makaledeki bölüm 3.2’de ifade edildiği gibi test hazırlık aşamasında FS
 
 ### Deneysel Çalışma - Iselta Special Formu
 
-Lütfen aşağıda verilen Special Form XXX dosyasını indirin. Ardından bu dosyayı araçlar bölümünde verilen Test Suite Designer programı ile açın. Special Form ESG modeli için Resim 2'ye bakın.
+Lütfen aşağıda verilen Special Form dosyasını indirin. Ardından bu dosyayı araçlar bölümünde verilen Test Suite Designer programı ile açın. Special Form ESG modeli için Resim 2'ye bakın.
 
 * <span>ISELTA [http://iselta.ivknet.de/](http://iselta.ivknet.de/) "Special" Form</span>
 [![Special Form Test Suite Designer File](Special_FF.jflap)](Special_FF.jflap)
@@ -46,6 +46,20 @@ Lütfen aşağıda verilen Special Form XXX dosyasını indirin. Ardından bu do
 <figcaption>Resim 2 - Special Formun ESG Modeli</figcaption>
 
 </figure>
+
+Ek modeller:
+
+ISELTA Special FSM:
+
+<figure>
+
+![Special Form](images/FSM.png)
+
+<figcaption>Resim 3 - Special Formun FSM Modeli</figcaption>
+
+</figure>
+
+
 
 **1.2** Mutant yaratım kısmı Iselta Special formu üzerinde manuel olarak değişikliklerle yapılmıştır. Special form'da bulunan form elementlerinin normalde doldurulması zorunludur. Yaratılan mutantlarda bu zorunluluk adımlarından bazıları kaldırılmıştır ve formu o değerler girilmeden kayıt edilmesi imkanı sağlanmıştır.
 
